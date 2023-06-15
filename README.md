@@ -1,4 +1,4 @@
-## Olá, meu nome é Jefferson Mariano! 👋
+## Olá, sou o Jefferson Mariano! 👋
 
 Dev Front-end
 <div style="display: inline_block"><br>
